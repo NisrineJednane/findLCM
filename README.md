@@ -1,0 +1,1 @@
+find LCM using GCD
